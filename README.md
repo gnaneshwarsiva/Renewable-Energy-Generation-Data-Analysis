@@ -1,11 +1,11 @@
 # Renewable-Energy-Generation-Data-Analysis
 A Python-based renewable energy analysis project examining solar, wind and hydro generation trends for January 2025. Includes statistical insights, peak-day detection and clear visualizations using Pandas, Matplotlib and Seaborn to present data-driven findings.
 
-Renewable Energy Analysis – January 2025
+**Renewable Energy Analysis – January 2025**
 
 This project analyzes daily renewable energy generation from solar, wind, and hydro sources for January 2025. Using Python-based data analytics, the study uncovers key patterns, peak production days, and total energy contributions through clean visualizations and statistical summaries.
 
-Project Objectives
+**Project Objectives**
 
 1)Load and preprocess time-series energy data
 
@@ -17,7 +17,7 @@ Project Objectives
 
 5)Present insights through clear engineering-focused analysis
 
-Tech Stack
+**Tech Stack**
 
 1)Python
 
@@ -27,7 +27,7 @@ Tech Stack
 
 4)CSV Dataset – daily energy records
 
-Key Features
+**Key Features**
 
 1)Statistical Overview: Mean generation for all three energy sources
 
@@ -39,7 +39,7 @@ Key Features
 
 5)Clean & Modular Code: Easy to extend for forecasting or additional sources
 
-Visual Outputs
+**Visual Outputs**
 
 1)Daily trend line plot
 
@@ -47,9 +47,12 @@ Visual Outputs
 
 3)Source-wise monthly energy bar chart
 
-How to Run pip install pandas matplotlib seaborn python energy_analysis.py
+**How to Run**
 
-Dataset
+pip install pandas matplotlib seaborn
+python energy_analysis.py
+
+**Dataset**
 
 Contains daily renewable energy readings for January 2025, including: 1)Date
 
@@ -59,6 +62,6 @@ Contains daily renewable energy readings for January 2025, including: 1)Date
 
 4)Hydro_kWh
 
-Project by
+**Project by**
 
 Gnaneshwar Siva pursuing B.Tech CSE (Big Data Analytics) student exploring real-world data analysis and energy-focused engineering insights.
